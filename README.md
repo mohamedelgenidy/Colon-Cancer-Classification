@@ -14,7 +14,7 @@ The model was trained on a public dataset of lung and colon cancer histopatholog
 * **Classes**: The data is divided into two distinct classes:
     * `Colon_Adenocarcinoma` (Malignant)
     * `Colon_Benign_Tissue` (Benign)
-
+     
 ### Data Samples
 
 Here are some examples of the images used for training the model:
@@ -98,6 +98,7 @@ A prediction function was created to test the model on new, unseen images. The r
 * **NumPy**: For numerical operations.
 * **Matplotlib & Seaborn**: For data visualization and plotting.
 * **Google Colab**: As the development and training environment.
+
 
 
 
